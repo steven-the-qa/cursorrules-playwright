@@ -1,2 +1,2 @@
 # cursorrules-playwright
-My personal cursorrules file for use with Cursor to assist with writing Playwright tests in my preferred style
+My personal `.cursorrules.md` file for use with Cursor to assist with writing Playwright tests in my preferred style
